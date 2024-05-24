@@ -1,0 +1,22 @@
+
+Online Sales Dashboard for E-commerce Store in India
+This Power BI project is designed to track and analyze the online sales of an e-commerce store across India. The dashboard provides comprehensive insights into sales performance, helping to identify trends, patterns, and opportunities for growth.
+
+Features
+Interactive Dashboard: A user-friendly interface that allows users to interact with the data and gain insights into sales performance.
+Drill-Down Capability: Complex parameters enable users to drill down into the data, providing a more detailed view of specific areas of interest.
+Customization with Filters and Slicers: Users can customize their view using various filters and slicers, making it easy to focus on specific data points.
+Data Connections and Joins: Efficiently connects and joins multiple tables to provide a comprehensive view of the data.
+Custom Calculations: Includes custom calculations to manipulate the data and create user-driven parameters for visualizations.
+Diverse Visualizations: Utilizes different types of visualizations such as bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, and maps to present data in an engaging and informative way.
+
+
+Learning Outcomes
+Developed an interactive dashboard to track and analyze online sales data.
+Implemented complex parameters for data drill-down and customized views using filters and slicers.
+Established connections and joins between new tables, and performed calculations to manipulate data and create user-driven parameters for visualizations.
+Created various types of customized visualizations to effectively communicate data insights.
+This project showcases the ability to create a dynamic and interactive dashboard that can help an e-commerce business in India make data-driven decisions and enhance their sales strategy.
+
+
+
