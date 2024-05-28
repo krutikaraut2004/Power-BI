@@ -13,5 +13,18 @@ This Power BI project is designed to track and analyze the online sales of an e-
 - Custom Calculations: Manipulates data and creates user-driven parameters.
 - Diverse Visualizations: Includes bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, and maps for engaging data presentation.
 
-This project demonstrates the ability to create a dynamic and interactive dashboard that supports data-driven decision-making and enhances sales strategies for an e-commerce business in India.
+
+## 2) Amazon Prime Video Dashboard
+
+### Overview: 
+This interactive dashboard provides insights into various aspects of Amazon Prime Video content and user engagement. By utilizing Power BI's data visualization capabilities, we can explore trends and make informed decisions.
+
+### Key Companents:
+- Content Analysis: Analyze the library based on factors like genre, release date, and average rating. Identify popular categories and discover hidden gems.
+- User Engagement Trends: Understand user viewing habits by tracking completion rates, watch time by genre, and peak viewing times.
+- Comparison Views: Compare performance metrics between movies and TV shows, or different release years.
+
+
+### *Data Source* = [Kaggle](https://www.kaggle.com/)
+
 
