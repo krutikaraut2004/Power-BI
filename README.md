@@ -19,7 +19,7 @@ This Power BI project is designed to track and analyze the online sales of an e-
 ### Overview: 
 This interactive dashboard provides insights into various aspects of Amazon Prime Video content and user engagement. By utilizing Power BI's data visualization capabilities, we can explore trends and make informed decisions.
 
-### Key Companents:
+### Key Components:
 - Content Analysis: Analyze the library based on factors like genre, release date, and average rating. Identify popular categories and discover hidden gems.
 - User Engagement Trends: Understand user viewing habits by tracking completion rates, watch time by genre, and peak viewing times.
 - Comparison Views: Compare performance metrics between movies and TV shows, or different release years.
